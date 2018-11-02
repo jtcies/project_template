@@ -1,7 +1,7 @@
-{{cookiecutter.project_name}}
+project_template
 ==============================
 
-{{cookiecutter.description}}
+template for data science projects
 
 Project Organization
 ------------
